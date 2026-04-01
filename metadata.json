@@ -1,0 +1,5 @@
+{
+  "name": "MetroTrack ETL & BI Dashboard",
+  "description": "A comprehensive Metro Passenger ETL pipeline and BI analytics dashboard for managing travel data, fare calculations, and crowd insights.",
+  "requestFramePermissions": []
+}
